@@ -1,0 +1,43 @@
+/* Стиль для VBox */
+.vbox {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+/* Стиль для GridPane */
+.grid-pane {
+    padding: 10px;
+}
+
+/* Стиль для Label */
+.label {
+    font-size: 14px;
+}
+
+/* Стиль для TextField */
+.text-field {
+    background-color: #ffffff;
+    padding: 5px;
+    font-size: 14px;
+}
+
+/* Стиль для ComboBox */
+.combo-box {
+    background-color: #ffffff;
+    padding: 5px;
+    font-size: 14px;
+}
+
+/* Стиль для Button */
+.button {
+    background-color: #4caf50;
+    color: #ffffff;
+    padding: 8px 12px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
